@@ -15,6 +15,8 @@ public class MainActivity extends AppCompatActivity {
 
         TextView titleText=findViewById(R.id.title);
         titleText.setText("GitHub");
+        TextView subjectText=findViewById(R.id.subject);
+        subjectText.setText("version controlled  and Git ");
 
 
     }
