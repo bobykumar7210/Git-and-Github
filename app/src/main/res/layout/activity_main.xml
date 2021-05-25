@@ -31,4 +31,12 @@
             android:text="this app demo to demonstrate the git and github"
 
             />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:textSize="16dp"
+        android:text="git intit  git status "
+
+        />
 </LinearLayout>
