@@ -8,6 +8,7 @@
     tools:context=".MainActivity">
 
         <TextView
+            android:id="@+id/title"
             android:layout_marginTop="8dp"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
@@ -16,6 +17,7 @@
             android:gravity="center"/>
 
         <TextView
+            android:id="@+id/subject"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
@@ -24,6 +26,7 @@
 
             />
         <TextView
+            android:id="@+id/subject_info"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_margin="8dp"
